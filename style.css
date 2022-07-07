@@ -10,10 +10,12 @@ body {
 
 .banner-img {
     position: relative;
+    background: linear-gradient(rgb(0, 0, 0, 0, 5), rgb(0, 0, 0, 0, 5));
     background: url(images/donation7.jpg) no-repeat center;
     background-size: cover;
     height: 600px;
     overflow: hidden;
+
 
 }
 
