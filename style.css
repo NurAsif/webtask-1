@@ -1,0 +1,230 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+
+    background: white;
+}
+
+.banner-img {
+    position: relative;
+    background: url(images/donation7.jpg) no-repeat center;
+    background-size: cover;
+    height: 600px;
+    overflow: hidden;
+
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(251, 255, 252);
+    font-weight: 700;
+}
+
+.container2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.taka {
+
+    text-align: center;
+    background-image: gray;
+    padding: 40px 40px;
+    font-weight: 700;
+}
+
+.button1 {
+    text-decoration: none;
+    background-color: rgba(251, 245, 245, 0.867);
+    padding: 40px 40px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.button2 {
+    text-decoration: none;
+    background-color: rgba(248, 195, 195, 0.618);
+    padding: 40px 40px 40px;
+    color: rgb(132, 16, 16);
+    font-weight: 700;
+    border-radius: 5px red;
+
+}
+
+.button3 {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(251, 245, 245, 0.867);
+    padding: 40px 40px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.button4 {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(251, 245, 245, 0.867);
+    padding: 40px 40px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.button5 {
+    text-decoration: none;
+    background-color: rgba(251, 245, 245, 0.867);
+    padding: 40px 40px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.container3 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.button6 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+
+
+}
+
+.container4 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.container5 {
+    width: 90%;
+    padding: 10px;
+    background: white;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+
+
+    padding-left: 2%;
+    width: 350px;
+    height: 300px;
+    background: rgb(237, 224, 199);
+    float: left;
+    margin: 0px 50px;
+    ;
+}
+
+.box2 {
+    padding-left: 2%;
+    width: 350px;
+    height: 300px;
+    background: rgb(248, 215, 220);
+    float: left;
+    margin: 0px 10px;
+}
+
+.box3 {
+    padding-left: 2%;
+    width: 350px;
+    height: 300px;
+    background: rgb(207, 207, 166);
+    float: left;
+    margin: 0px 10px;
+}
+
+.con1 {
+    display: flex;
+    text-align: justify;
+    font-size: 700;
+    margin: 50px;
+    padding: 50px;
+}
+
+.con {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.as {
+    text-align: center;
+}
+
+.cons {
+    display: flex;
+    max-width: 1000px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: bisque;
+
+}
+
+footer {
+    position: absolute;
+    bottom: -2290px;
+    left: 0;
+    right: 0;
+    background: black;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: red;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.button11 {
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    border: 2px slategray;
+    background: transparent;
+    color: white;
+    cursor: pointer;
+}
