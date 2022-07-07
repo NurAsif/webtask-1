@@ -65,9 +65,9 @@ body {
     text-decoration: none;
     background-color: rgba(248, 195, 195, 0.618);
     padding: 40px 40px 40px;
-    color: rgb(132, 16, 16);
+    color: rgb(237, 13, 13);
     font-weight: 700;
-    border-radius: 5px red;
+    border-radius: 10px rgb(26, 22, 22);
 
 }
 
